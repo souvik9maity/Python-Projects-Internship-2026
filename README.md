@@ -1,4 +1,4 @@
-# Python Projects Internship 2026
+# Python Development Internship 2026
 
 This repository contains Python GUI projects developed using PyQt5.
 
