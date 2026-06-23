@@ -2,7 +2,7 @@
 
 This repository contains Python GUI projects developed using PyQt5.
 
-## Projects
+## Developments
 
 ### 1. Basic Calculator
 Features:
